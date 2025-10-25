@@ -1,0 +1,44 @@
+name: "Aditya Chopra"
+title: "Fintech Student | Marketing Strategist | Automation Enthusiast"
+bio: >
+  I'm a BBA Fintech student at Chandigarh University passionate about blending
+  business, marketing, and automation. I manage marketing, data, and automation
+  for a tarot and numerology venture, building systems that make operations smoother
+  and more efficient.
+
+email: "chopraadee2@gmail.com"
+linkedin: "https://linkedin.com/in/aditya-chopra"
+github: "https://github.com/aditya-chopra"
+whatsapp: "https://wa.me/7973183499"
+
+skills:
+  - Google Apps Script Automation
+  - Business Analytics
+  - Digital Marketing & Branding
+  - Excel & Google Sheets
+  - Workflow Design
+  - Client Communication
+
+projects:
+  - name: "Automation System for Report Delivery"
+    description: >
+      Created a Google Apps Script-based system to automatically collect customer data,
+      store pre-generated numerology reports, and deliver them via email.
+    tools: "Google Sheets, Apps Script, Gmail API"
+  - name: "Marketing Dashboard"
+    description: >
+      Built a performance dashboard tracking leads, conversions, and engagement across
+      campaigns using Google Sheets and visualization tools.
+    tools: "Google Sheets, Data Studio, Canva"
+
+experience:
+  - title: "Marketing & Automation Manager — Tarot & Numerology Venture"
+    duration: "2024–Present"
+    details: >
+      Managed digital marketing campaigns, automated client report workflows, and built
+      structured record systems for efficient data management.
+  - title: "Social Internship — Ludhiana (Chandigarh University)"
+    duration: "2024"
+    details: >
+      Worked with NGOs to document activities, streamline data collection, and digitize
+      reporting processes.
